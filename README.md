@@ -6,7 +6,7 @@ npm install
 ```
 and after installed
 ```typescript
-npm server
+ng serve
 ```
 
 
